@@ -14,7 +14,7 @@ public class tomeki {
 		<!DOCTYPE html>
 		<html>
 		<head>
-		  <title>Tomeki/title>
+		  <title>Tomeki</title>
 		</head>
 		<body>
 		<p>Jestem <strong>Tomeki</stong></p>
