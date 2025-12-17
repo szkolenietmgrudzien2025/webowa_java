@@ -19,6 +19,7 @@ pipeline {
     post {
         success {
             archiveArtifacts 'target/*.war'
+			sh 'cp target/webowa.war /home/kurs/wildfly-38.0.1.Final/standalone/deployments/'
         }
     }
 }
