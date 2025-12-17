@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage("pull") {
             steps {
-                git url: 'https://github.com/patczar/webowa_java.git', branch: 'master'
+                git url: 'https://github.com/pczr-alx/webowa_java.git', branch: 'master'
             }
         }
         stage("build") {
