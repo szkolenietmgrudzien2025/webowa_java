@@ -28,6 +28,8 @@ public class Root {
 		<h2>Osoby wpisują</h2>
 		<ul>
 		<li><a href="osoby/ala">Ala</a></li>
+		<li><a href="osoby/patryk">Patryk</a></li>
+		<li><a href="osoby/zuzia">Zuzia</a></li>
 		</ul>
 		</body>
 		</html>
