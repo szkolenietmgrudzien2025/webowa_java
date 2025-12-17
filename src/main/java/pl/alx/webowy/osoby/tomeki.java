@@ -14,10 +14,10 @@ public class tomeki {
 		<!DOCTYPE html>
 		<html>
 		<head>
-		  <title>Tomek.i/title>
+		  <title>Tomeki/title>
 		</head>
 		<body>
-		<p>Jestem <strong>Tomek.i</stong></p>
+		<p>Jestem <strong>Tomeki</stong></p>
 		</body>
 		</html>
 		""";
